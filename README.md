@@ -1,6 +1,6 @@
 # Nondestructing-Testing-by-Electromagnetic-Waves-and-Time-Reversal-Techniques
 
-The goal of this project is to detect objects in a cube using Time Reversal Techniques based on the principles of wave propagation reciprocity. Time-Reversal Acoustics is a method widely used in various fields, including medical imaging, underwater communication, and non-destructive testing.
+The goal of this project is to detect objects in a cube using Time Reversal Techniques inspired by the principles described in the paper "Time-reversal acoustics" by Mathias Fink [1]. Time-Reversal Acoustics is a method based on the principles of wave propagation reciprocity, which has wide-ranging applications in the field of acoustics, including medical imaging, underwater communication, and non-destructive testing.
 
 ## Overview
 
@@ -27,3 +27,5 @@ Module 4 explores Time Reversal Techniques to restore and focus signals, a funda
 ### Module 5: Cube Detection Inside a Box Resonator
 
 In this final module, we apply Time-Reversal Techniques to detect the presence and position of cubes within the box resonator. The objective is to locate cubes using TRA-based methods.
+
+[1]: https://iopscience.iop.org/article/10.1088/1742-6596/118/1/012001/pdf
