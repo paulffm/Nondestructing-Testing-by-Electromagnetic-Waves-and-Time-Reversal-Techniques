@@ -1,4 +1,4 @@
-# Nondestructing-Testing-by-Electromagnetic-Waves-and-Time-Reversal-Techniques
+# Nondestructing Testing by Electromagnetic Waves and Time-Reversal Techniques
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/paulffm/Nondestructing-Testing-by-Electromagnetic-Waves-and-Time-Reversal-Techniques/blob/main/LICENSE)
 
