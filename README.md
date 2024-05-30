@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/paulffm/Nondestructing-Testing-by-Electromagnetic-Waves-and-Time-Reversal-Techniques/blob/main/LICENSE)
 
-This project is part of the "Science in Practice I" course and aims to detect objects in a cube using Time Reversal Techniques inspired by the principles described in the paper "Time-reversal acoustics" by Mathias Fink [1](https://iopscience.iop.org/article/10.1088/1742-6596/118/1/012001/pdf). Time-Reversal Acoustics is a method based on the principles of wave propagation reciprocity, which has wide-ranging applications in the field of acoustics, including medical imaging, underwater communication, and non-destructive testing.
+This project is part of the "Science in Practice I" course and aims to detect objects in a cube using Time Reversal Techniques inspired by the principles described in the paper "Time-reversal acoustics" by Mathias Fink [[1]](https://iopscience.iop.org/article/10.1088/1742-6596/118/1/012001/pdf). Time-Reversal Acoustics is a method based on the principles of wave propagation reciprocity, which has wide-ranging applications in the field of acoustics, including medical imaging, underwater communication, and non-destructive testing.
 
 <p align="center">
   <img src="time_reversal_concept.png"  alt="1" width = 685px height = 465px >
