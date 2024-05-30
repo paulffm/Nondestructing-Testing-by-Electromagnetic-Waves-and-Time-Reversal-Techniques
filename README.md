@@ -34,7 +34,7 @@ Some plotted modes and modes of the numerical and analytical solution:
 Module 2 extends the capabilities of the FIT solver to the frequency domain, considering spatial distributions. A convergence study is also included to evaluate the solver's performance.
 
 #### Problem Setting
-Same box as in module 1 ($w_x = 200$ mm, $w_y = 160$ mm, and $w_z = 120$ mm, filled with air with walls with a very high conductivity), but now we determined the first 15 electromagnetic eigenmodes will be determined using an frequency domain solver.
+Same box as in module 1 ($w_x = 200$ mm, $w_y = 160$ mm, and $w_z = 120$ mm, filled with air with walls with a very high conductivity), but now we determined the first 15 electromagnetic eigenmodes using an frequency domain solver.
 
 #### Results
 
@@ -68,7 +68,7 @@ Signal in Time Domain:
 Module 4 explores Time Reversal Techniques to restore and focus signals, a fundamental concept in Time-Reversal Acoustics.
 
 #### Problem Setting
-Consider a magnetic boundary condition at the bottom of the box. Keep electric boundary conditions at all other boundaries. Model two electrodes at the bottom plan. Their centre points are 60 mm away from the left and right boundary and exactly in the centre between the front and back plane. The electrodes have an extend of 40 mm in the x-direction and 80 mm in the y-direction. 
+Consider a magnetic boundary condition at the bottom of the box. Keep electric boundary conditions at all other boundaries. Model two electrodes A and B at the bottom plan. Their centre points are 60 mm away from the left and right boundary and exactly in the centre between the front and back plane. The electrodes have an extend of 40 mm in the x-direction and 80 mm in the y-direction. Explore Time Reversal Techniques to restore and focus signals at electrode A.
 
 <p align="center">
   <img src="box.png"  alt="1" width = 400px height = 278px >
@@ -87,7 +87,7 @@ Measurements of the forward and reversed signal at electrode A:
 In this final module, we apply Time-Reversal Techniques to detect the presence and position of cubes within the box resonator. The objective is to locate cubes using TRA-based methods. 
 
 #### Problem Setting
-Consider a magnetic boundary condition at the bottom of the box. Keep electric boundary conditions at all other boundaries. Model two electrodes at the bottom plan. Their centre points are 60 mm away from the left and right boundary and exactly in the centre between the front and back plane. The electrodes have an extend of 40 mm in the x-direction and 80 mm in the y-direction. Now additionally fully inside the resonator is a perfect-electric-conducting (PEC) cube with size 20 mm at a varying position. The goal is now to detect the cube through measurements at the electrodes A and B.
+Consider a magnetic boundary condition at the bottom of the box. Keep electric boundary conditions at all other boundaries. Model two electrodes A and B at the bottom plan. Their centre points are 60 mm away from the left and right boundary and exactly in the centre between the front and back plane. The electrodes have an extend of 40 mm in the x-direction and 80 mm in the y-direction. Now additionally fully inside the resonator is a perfect-electric-conducting (PEC) cube with size 20 mm at a varying position. The goal is now to detect the cube through measurements at the electrodes A and B.
 
 #### Results
 
